@@ -1,5 +1,5 @@
 
-var foydalanuvchiTanlash = parseInt(prompt("1, 2 yoki 3 raqamidan birini tanlang:"));
+var foydalanuvchiTanlash = parseInt(prompt("1:qogoz, 2:qaychi, 3:quduq raqamidan birini tanlang:"));
 
 var foydalanuvchiHarakati = "";
 
